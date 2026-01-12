@@ -1,0 +1,14 @@
+{
+  "12322": {
+    "eventID": "12322",
+    "publicKey": "L8/57GmyIBBOueitJKAy09MgVa8LZS5ijqywyzGnL6g=",
+    "privateKey": "t+2dTRF4J1eWMrpXfOteJ+drnc9904ZBd1AtieR6hasvz/nsabIgEE656K0koDLT0yBVrwtlLmKOrLDLMacvqA==",
+    "validFrom": "2025-12-17T08:18",
+    "validUntil": "2025-12-24T08:18"
+  },
+  "1234": {
+    "eventID": "1234",
+    "publicKey": "UY60CI9FwBck0jpUPN1DvmemA3/wj4omabJ1VbF0vxk=",
+    "privateKey": "L7doQeQsU1v9czFSOUb2wbgi/mZmzZAec9XWpcAVmm5RjrQIj0XAFyTSOlQ83UO+Z6YDf/CPiiZpsnVVsXS/GQ=="
+  }
+}
